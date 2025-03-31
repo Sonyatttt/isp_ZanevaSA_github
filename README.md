@@ -12,3 +12,6 @@
 * флаг --oneline
 * git diff хэш
 * --hard
+print("Hello world!")
+### Hello
+###### eihgehg
